@@ -1,0 +1,13 @@
+.venv/
+.venv-test/
+.venv-sdist/
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+.jlwriter_test/
+tests/_tmp/
+tests/_preview/
+tests/_appdata/
+tests/_artifacts/

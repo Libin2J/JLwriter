@@ -1,0 +1,33 @@
+{
+  "out": "public/images",
+  "style": "3d",
+  "items": [
+    {
+      "name": "home-hero",
+      "preset": "hero",
+      "prompt": "SaaS 数据分析产品的首页主视觉：漂浮的半透明数据面板、柔和光带与粒子，深蓝到紫色渐变背景，科技感但不冰冷"
+    },
+    {
+      "name": "home-og",
+      "preset": "og",
+      "prompt": "品牌分享卡片主视觉：抽象几何光斑与产品界面剪影，深色背景，中央留白用于叠加标题"
+    },
+    {
+      "name": "feature-sync",
+      "preset": "card",
+      "style": "flat",
+      "prompt": "功能插画：多台设备之间同步数据，云朵与箭头元素，浅色背景，蓝紫配色"
+    },
+    {
+      "name": "empty-inbox",
+      "preset": "empty_state",
+      "style": "line",
+      "prompt": "空状态插画：一个打开的纸箱与漂浮的文件夹，画面轻松，留白充足"
+    },
+    {
+      "name": "app-splash",
+      "preset": "mobile",
+      "prompt": "移动端开屏插画：夜晚城市天际线与柔和光晕，底部留白，简洁现代"
+    }
+  ]
+}
